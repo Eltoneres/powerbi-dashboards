@@ -2,7 +2,7 @@
 
 O dashboard oferece uma visão gerencial detalhada sobre:
 
-- **Evolução do faturamento mensal** em reais (R$) ao longo do ano de 2013, com um gráfico de área com pontos destacados para cada mês.
+- **Evolução do faturamento mensal** em reais (R$) ao longo dos anos, com um gráfico de área com pontos destacados para cada mês.
 - **Quantidade de vendas anual**, exibida em um gráfico de linha, com destaque para o pico de vendas em 2013.
 - **Evolução da quantidade de vendas mensal** com detalhamento percentual, apresentado em um gráfico de área composto.
 - **Top 10 produtos mais vendidos**, apresentados em gráfico de barras horizontais para rápida visualização.
